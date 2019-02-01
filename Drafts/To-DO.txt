@@ -1,0 +1,22 @@
+1. why this algorithm is used
+2. quality of experiment done
+3. explaination of the experiment done - general and mathematical
+4. code commenting(remaining)
+5. Lit review
+
+
+
+take mean of the data and compare it
+
+
+DONE:
+literature review
+
+
+• What are the models behind the two classification algorithms you chose and
+implemented?
+• What is your experiment setup for training these classifiers, and how are you going
+to measure the performance of your classification algorithms?
+• Compare the performance of these two algorithms (You can use the metrics you
+learned in the course, or any other measurements appropriate).
+• Can you obtain better performance by using only a subset of the features?
